@@ -79,3 +79,4 @@ pickle-email-*.html
 *.jar
 xerial*.*
 vendor
+config
